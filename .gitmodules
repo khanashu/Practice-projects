@@ -1,0 +1,3 @@
+[submodule "redis-server-from-scratch"]
+	path = redis-server-from-scratch
+	url = https://git.codecrafters.io/79b0ee1cc7daf270
